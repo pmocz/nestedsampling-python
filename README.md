@@ -7,7 +7,8 @@ Nested Sampling Parameter Fitting and Model Selection
 
 Apply the Nested Sampling Monte Carlo algorithm to fit exoplanet radial 
 velocity data and estimate the posterior distribution of the model 
-parameters
+parameters. This technique is more advanced and robust than simple 
+Metropolis-Hastings [MCMC sampling](https://github.com/pmocz/mcmc-python)
 
 
 ```
