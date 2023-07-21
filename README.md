@@ -5,7 +5,7 @@ Nested Sampling Parameter Fitting and Model Selection
 
 ### Philip Mocz (2023) [@PMocz](https://twitter.com/PMocz)
 
-### 📝 [Read the Algorithm Write-up on Medium.com](https://levelup.gitconnected.com/create-your-own-nested-sampling-algorithm-for-bayesian-parameter-fitting-and-model-selection-with-3cfdeae4afd)
+### 📝 [Read the Algorithm Write-up on Medium](https://levelup.gitconnected.com/create-your-own-nested-sampling-algorithm-for-bayesian-parameter-fitting-and-model-selection-with-3cfdeae4afd)
 
 Apply the Nested Sampling Monte Carlo algorithm to fit exoplanet radial 
 velocity data and estimate the posterior distribution of the model 
